@@ -12,4 +12,7 @@ A simple digital clock built using HTML, CSS, and JavaScript. The clock displays
 1. Open the `index.html` file in your browser.
 2. The clock will display the current time and update automatically every second.
 
+# websitelink
+
+[website_link](https://calculator1232321.w3spaces.com/index.html)
 
